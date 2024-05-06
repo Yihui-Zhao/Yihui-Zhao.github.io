@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "Chongqing China"
-title                    : "Yihui Zhao / https://yihui-zhao.github.io/"
+title                    : "Yihui Zhao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yihui Zhao"
 description              : &description "personal description"
-url                      : https://Yihui-Zhao.github.io # the base hostname & protocol for your site e.g. "https://Yihui-Zhao.github.io"
+url                      : https://yihui-zhao.github.io # the base hostname & protocol for your site e.g. "https://Yihui-Zhao.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yihui-Zhao/Yihui-Zhao.github.io"
 
@@ -21,11 +21,11 @@ repository               : "Yihui-Zhao/Yihui-Zhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Little prince.jpg"
+  avatar           : "Little prince.png"
   name             : "Yihui Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
+  location         : "China Chongqing"
   employer         : "Chongqing Technology and Business University"
   uri              : # URL
   email            : "zhaoyihui@ctbu.edu.cn" 
