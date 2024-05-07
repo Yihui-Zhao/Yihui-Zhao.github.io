@@ -28,8 +28,11 @@ Research experience
 ======
 * Spatial and Temporal Differences in ‘Domestic’ Brand Emotions and Their Impact on Entrepreneurship
 Master Thesis, supervised by Prof. Zhonglin Tang                             Mar.2024 – Apr. 2025(Expected)
+
 --Collected prefecture-level data and performed sentiment analysis on crawled microblog comment data
+
 --Utilised stata for robustness testing and econometric analysis of the data
+
 --Demonstrated a direct link between brand emotion and entrepreneurship 
 
 * Research on the strategy of improving the quality and efficiency of Chongqing’s tourism Industry
