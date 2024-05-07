@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Chongqing Technology and Business University, Chongqing, China--------------------- Sep. 2022 – Present
+* Major: Economics, Grade: 88.2/100, Ranking: 1/55
+* Awards: China National Scholarship(Top 1%), First Class Academic Scholarship(Top 10%), Outstanding Graduates, etc
+* 
+* B.S. in Xiangtan University, Hunan, China------------------------------------------------- Sep. 2018 – Jun. 2022
+* Major: Software Engineering, Grade: 79.97/100, Ranking: 24/87
+* Awards: Second Class Academic Scholarship(Top 30%), Excellent Student Cadre, Outstanding Volunteer, etc
 
 Work experience
 ======
