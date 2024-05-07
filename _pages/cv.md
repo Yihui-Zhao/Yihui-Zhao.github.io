@@ -27,25 +27,25 @@ Publications
 Research experience
 ======
 * Spatial and Temporal Differences in ‘Domestic’ Brand Emotions and Their Impact on Entrepreneurship
-Master Thesis, supervised by Prof. Zhonglin Tang                             Mar.2024 – Apr. 2025(Expected)\
+Master Thesis, supervised by Prof. Zhonglin Tang--------Mar.2024 – Apr. 2025(Expected)\
 --Collected prefecture-level data and performed sentiment analysis on crawled microblog comment data\
 --Utilised stata for robustness testing and econometric analysis of the data\
 --Demonstrated a direct link between brand emotion and entrepreneurship 
 
 * Research on the strategy of improving the quality and efficiency of Chongqing’s tourism Industry
-Team leader, supervised by Prof. Zhonglin Tang                                      May.2023 – May. 2024\
+Team leader, supervised by Prof. Zhonglin Tang--------May.2023 – May. 2024\
 Supported by the Scientific Research Innovation Project of Graduate School of Chongqing Technology and Business University\
 --Crawled travel website data with python and performed sentiment analysis \
 --Quantified review data and extracted high-frequency words to explore tourist preferences \
 --Demonstrated the association between tourist preferences and environmental characteristics through econometric analyses
 
-* Enhancing Trail Building In Mountain-Towns: Interaction Effects Of Environmental Factors On WalkScore Team leader, supervised by Prof. Zhonglin Tang                                       Aug. 2023 – Mar. 2024\
+* Enhancing Trail Building In Mountain-Towns: Interaction Effects Of Environmental Factors On WalkScore Team leader, supervised by Prof. Zhonglin Tang--------Aug. 2023 – Mar. 2024\
 --Mapped 47 trails in Chongqing with Arcgis and calculated walkscore for each trail\
 --Analysed the interrelationship between walkscore and the environmental factors with Geodetector\
 --Concluded the importance of high-rise buildings and high impervious surface environments for building trails
 
 * Research on spatial identification and mitigation path of industrial environmental risks along the upper reaches of the Yangtze River
-Core Member, supervised by Prof. Zhonglin Tang                                     Sep. 2022 – Dec. 2023\
+Core Member, supervised by Prof. Zhonglin Tang--------Sep. 2022 – Dec. 2023\
 Supported by National Social Science Fund of China\
 --Analysed various POI and AOI data with Arcgis and used the processed data to draw pictures\
 --Wrote an environmental risk monitoring programme for industrial enterprises in the upper reaches of the Yangtze River
