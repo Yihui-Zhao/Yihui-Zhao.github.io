@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Chongqing China"
-title                    : "Yihui Zhao / Personal Homepage"
+title                    : "Yihui Zhao(赵旖慧)"
 title_separator          : "-"
 name                     : &name "Yihui Zhao"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Little.png"
   name             : "Yihui Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate student, CTBU, Chongqing"
   location         : "China Chongqing"
   employer         : "CTBU"
   uri              : # URL
