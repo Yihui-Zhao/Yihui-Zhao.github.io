@@ -10,7 +10,7 @@ redirect_from:
 ======
 **Current**\
 I am looking for a PhD in the intersection of environment, economics, and gig Data\
-Please find her CV [here](../assets/CV.pdf)
+Please find her CV [here](/assets/CV.pdf)
 
 A data-driven personal website
 ======
