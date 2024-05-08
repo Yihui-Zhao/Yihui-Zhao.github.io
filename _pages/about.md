@@ -8,8 +8,8 @@ redirect_from:
 ---
 **Welcome to Yihui Zhao’s homepage!**
 ======
-Current
-I am looking for a Ph.D. in the intersection of environment, economics, and gig Data
+**Current**/
+I am looking for a PhD in the intersection of environment, economics, and gig Data
 
 A data-driven personal website
 ======
