@@ -9,7 +9,7 @@ redirect_from:
 **Welcome to Yihui Zhao’s homepage!**
 ======
 **Current**\
-I am looking for a PhD in the intersection of environment, economics, and gig Data\
+I am looking for a PhD in the intersection of **environment**, **economics**, and **big Data**\
 Please find her CV [here](/assets/CV.pdf)
 
 ======
