@@ -26,29 +26,44 @@ Publications
 
 Research experience
 ======
-* Spatial and Temporal Differences in ‘Domestic’ Brand Emotions and Their Impact on Entrepreneurship
+* A Study of the Impact of 'Domestic' Brand Emotions on Entrepreneurship
 Master Thesis, supervised by Prof. Zhonglin Tang--------Mar.2024 – Apr. 2025(Expected)\
---Collected prefecture-level data and performed sentiment analysis on crawled microblog comment data\
---Utilised stata for robustness testing and econometric analysis of the data\
---Demonstrated a direct link between brand emotion and entrepreneurship 
+--Collected over 600,000 brand-related Sina Weibo comments and hundreds of millions of business enterprise data\
+--Built a corpus based on Sina Weibo comment data and trained my own sentiment analysis model\
+--Demonstrated that consumers' emotional attitudes towards brands have a positive impact on entrepreneurial activity 
 
-* Research on the strategy of improving the quality and efficiency of Chongqing’s tourism Industry
-Team leader, supervised by Prof. Zhonglin Tang--------May.2023 – May. 2024\
-Supported by the Scientific Research Innovation Project of Graduate School of Chongqing Technology and Business University\
---Crawled travel website data with python and performed sentiment analysis \
---Quantified review data and extracted high-frequency words to explore tourist preferences \
---Demonstrated the association between tourist preferences and environmental characteristics through econometric analyses
+* A Study of Whether Geographical Location Affects Tourists' Perceptions and Preferences for Attractions in Cities of the Same Cultural Type
+Core Member, supervised by Prof. Zhonglin Tang--------Apr.2023 – Nov. 2023\
+--Crawled a total of more than 260,000 comment data from the same cultural subtype in different geographic cities - Chengdu and Chongqing and calculated the sentiment score of each review\
+--Compared the differences between Chongqing and Chengdu, the two co-cultural subtypes, in four ways\
+--Concluded that cities with the same cultural background, influenced by geography, climate and other factors, can exhibit different images
 
-* Enhancing Trail Building In Mountain-Towns: Interaction Effects Of Environmental Factors On WalkScore Team leader, supervised by Prof. Zhonglin Tang--------Aug. 2023 – Mar. 2024\
---Mapped 47 trails in Chongqing with Arcgis and calculated walkscore for each trail\
+* Enhancing Trail Building In Mountain-Towns: Interaction Effects Of Environmental Factors On WalkScore
+Team Leader, supervised by Prof. Zhonglin Tang--------Aug. 2023 – Mar. 2024\
+--Collected data on all the construction trails in the main city of Chongqing and mapped them with Arcgis\
+--Proposed weights for different poi categories and calculated walkscore for each trail based on its distance\
 --Analysed the interrelationship between walkscore and the environmental factors with Geodetector\
 --Concluded the importance of high-rise buildings and high impervious surface environments for building trails
 
-* Research on spatial identification and mitigation path of industrial environmental risks along the upper reaches of the Yangtze River
+* Research on the Strategy for Improving the Quality and Efficiency of Chongqing's Tourism Industry
+Team Leader, supervised by Prof. Zhonglin Tang--------May.2023 – May. 2024\
+Supported by the Scientific Research Innovation Project of Graduate School of Chongqing Technology and Business University\
+--Crawled the data from 160,000 reviews containing information about tourist attractions in Chongqing\
+--Modelled and identified the relationship between tourist preferences and destination features\
+--Emphasised the importance of cultural and natural elements in destination development and the need to create a unique destination image
+
+* A Study of Public Preferences and Their Influence in North and South China
+Core Member, supervised by Prof. Zhonglin Tang--------Nov. 2022 – May. 2023\
+--Crawled through 180,000 reviews of nearly 200 attractions in representative cities in North and South China and calculated sentiment scores for each text data\
+--Built a logistic model of public preferences and influencing factors and analysed changes in public preferences in three dimensions: time, space and the vegetation of the landscape\
+--Discussed the reasons why the same influences affect public preferences differently in different circumstances
+
+* Research on Spatial Identification and Mitigation Path of Industrial Environmental Risks along the Upper Reaches of the Yangtze River
 Core Member, supervised by Prof. Zhonglin Tang--------Sep. 2022 – Dec. 2023\
 Supported by National Social Science Fund of China\
---Analysed various POI and AOI data with Arcgis and used the processed data to draw pictures\
---Wrote an environmental risk monitoring programme for industrial enterprises in the upper reaches of the Yangtze River
+--Utilised POI, AOI data, remote sensing image data, and enterprise business data to conduct industrial distribution, risk assessment, and risk buffer zone analysis in the upper reaches of the Yangtze River\
+--Proposed a programme for a dynamic monitoring and regulation system for industrial environmental risks along the upper reaches of the Yangtze River\
+--Responsible for big data analytics, spatial distribution mapping, data statistics and text material writing
   
 Skills
 ======
